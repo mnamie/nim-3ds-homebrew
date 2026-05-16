@@ -1,0 +1,9 @@
+nimcache/
+build/
+*.elf
+*.3dsx
+*.smdh
+*.cia
+*.map
+
+.claude
